@@ -1,1 +1,1 @@
-# ec2-terraform-project
+# ec2
