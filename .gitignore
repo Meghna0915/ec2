@@ -1,0 +1,15 @@
+# --- Terraform ---
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+.terraform.lock.hcl
+crash.log
+
+# --- OS / Editor ---
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
